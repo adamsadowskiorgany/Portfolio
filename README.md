@@ -4,7 +4,7 @@ About my education and experience
 📊Mathematic,👥Psychology, 🎶Music. 
 Recently, I have been expanding my skills to include the path of a software tester. I attend in courses, learn about programs and read literature on programming and testing. I also make coding. I regularly report bugs to the applications I use every day and I notice changes with great satisfaction.
 
-# Certificates I pass:
+# Certificates I passed:
 ISTQB Certified Tester Foundation Level - (Lublin, 1/08/2023)
 
 # Courses I finished:
