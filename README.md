@@ -18,14 +18,25 @@ IteliJ IDEA, Soap UI, Postman, SPSS, DevTools
 
 # Books I have read:
 Selenium WebDriver w Javie Praktyczne wprowadzenie do tworzenia testów systemowych;
+
 Testowanie aplikacji dla programistów frontendowych;
-TDD Programowanie w javie strowane testami;
+
+TDD Programowanie w Javie strowane testami;
+
 BDD w działaniu sterowane zachowaniem w rozwoju aplikacji;
+
 HTML Podręcznik Programisty;
-JAva w pigółce;
+
+Java w pigółce;
+
 Java podstawy wydanie XI;
+
 REST Najlepsze praktyki i wzorce w Java;
-Python zwięzełe kompendium dla programisty;
-JAvaScript Tworzenie nowoczesnych aplikacji webowych;
+
+Python zwięzłe kompendium dla programisty;
+
+JavaScript Tworzenie nowoczesnych aplikacji webowych;
+
 SQL w mgnieniu oka;
+
 Certyfikowany tester ISTQB; 
