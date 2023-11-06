@@ -17,26 +17,26 @@ Jira, MySQL, Visual Studio Code, Git,
 IteliJ IDEA, Soap UI, Postman, SPSS, DevTools
 
 # Books I have read:
-Selenium WebDriver w Javie Praktyczne wprowadzenie do tworzenia testów systemowych;
+Boni Garcia - Hands-On Selenium WebDriver with Java: A Deep Dive into the Development of End-to-End Tests;
 
-Testowanie aplikacji dla programistów frontendowych;
+Eran Kinsbruner - A Frontend Web Developer's Guide to Testing: Explore leading web test automation frameworks and their future driven by lew-code and AI;
 
-TDD Programowanie w Javie strowane testami;
+Viktor Farcic, Alex Garcia - Test-Driven JAva Development;
 
-BDD w działaniu sterowane zachowaniem w rozwoju aplikacji;
+John Ferguson Smart - BDD in Action: BEhavior-Driven Development for the whole software lifecycle;
 
-HTML Podręcznik Programisty;
+Chuck Hudson, Tom Leadbetter - HTML5 Developer's Cookbook;
 
-Java w pigółce;
+Benjamin J. Evans, David Flanagan - Java in a Nutshell;
 
-Java podstawy wydanie XI;
+Cay S. Horstmann - Core Java Volume I - Fundamentals 11th Edition;
 
-REST Najlepsze praktyki i wzorce w Java;
+Bhakti Mehta - RESTful Java Patterns and Best PRactices;
 
-Python zwięzłe kompendium dla programisty;
+David M. Beazley - Python Distilled;
 
-JavaScript Tworzenie nowoczesnych aplikacji webowych;
+Tomasz Sochacki - JavaScript Tworzenie nowoczesnych aplikacji webowych;
 
-SQL w mgnieniu oka;
+Ben Forta - SQL in 10 Minutes a Day, Sams Teach Yourself;
 
-Certyfikowany tester ISTQB; 
+Adam Roman, Lucjan Stapp - Certyfikowany tester ISTQB; 
