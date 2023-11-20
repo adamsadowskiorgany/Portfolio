@@ -6,9 +6,9 @@ Recently, I have been expanding my skills to include the path of a software test
 
 # My projects 
 I do codding. Just take a look to my "FirstAutomatisation" You will observe there:
-1) fulfilling login and password, address by the use of Cucumber and Gherkin 
-2) searching what time is it at the moment
-3) visiting on my website
+1) I use Selenium WebDrover with Java 
+2) I use Page Object Pattern  
+3) I use Cucumber and Gherkin
    
 # Certificates I passed:
 ISTQB Certified Tester Foundation Level - (Lublin, 1/08/2023)
